@@ -18,4 +18,4 @@ This is the basic python which is used for creating the docker image, basically 
 
 ## Commands for Docker Hub
 1. docker login # for logging in docker hub
-2. To push in docker hub you can give a proper username and image_name eg : abhishekjadhav3470/[image_name ]
+2. To push in docker hub you can give a proper username and image_name eg : abhishekjadhav3470/[image_name]
